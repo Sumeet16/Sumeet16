@@ -8,5 +8,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumeet16&show_icons=true&locale=en&layout=compact" alt="sumeet16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumeet16&show_icons=true&locale=en" alt="sumeet16" /></p>
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumeet16&show_icons=true&theme=tokyonight)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeet16&" alt="sumeet16" /></p>
